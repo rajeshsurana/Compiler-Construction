@@ -7,3 +7,4 @@ Tools used at each step
 Lexer-DFA, Regular Expressions.
 Parser- EBNF, Syntax Diagrams, Binary Search tree.
 Semantic analyzer and code generator embedded inside parser files.
+Download the Compiler.jar file and double click to start using it.
